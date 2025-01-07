@@ -6,6 +6,8 @@ Project Description: Dream Stake is a decentralized contest platform where parti
 
 Source Code Link: https://github.com/mxber2022/lensHoliday
 
-Preview Link (Optional):
-Demo Video/Slide Deck Link (Optional):
-Screenshots (Optional):
+Preview Link (Optional): https://remarkable-taiyaki-2669d9.netlify.app/
+
+Demo Video/Slide Deck Link (Optional):https://youtu.be/BcPWDk033IQ
+
+Presentation: https://remarkable-taiyaki-2669d9.netlify.app/
